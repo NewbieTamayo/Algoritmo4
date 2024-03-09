@@ -8,3 +8,4 @@ Hasta ahora los proyectos que se encuentran son los siguientes:
 3. Proyecto de registro de notas y control de definitiva de estudiantes.
 4. Proyecto de registro de inventario, entrada y salida de productos.
 5. Proyecto de registro de datos de curriculum para una empresa de reclutamiento.
+6. Proyecto de registro de créditos para una persona que a través de su salario desea saber si puede sacar un crédito de X valor a Y cantidad de cuotas.
